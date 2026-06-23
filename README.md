@@ -48,17 +48,16 @@ Rather than claiming to be an expert, I am a dedicated student of the field—co
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_HERE&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ElFaR3on&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
   
   <br><br>
   
-  <img src="https://streak-stats.demolab.com/?user=USERNAME_HERE&theme=dark&hide_border=false" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=ElFaR3on&theme=dark&hide_border=false" alt="GitHub Streak">
   
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_HERE&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElFaR3on&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
-
 
 
 <!--
