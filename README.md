@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/#)
 [![Email](https://img.shields.io/badge/Email-2C3E50?style=flat&logo=gmail&logoColor=white)](mailto:email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/#)
+
 
 <br><br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
