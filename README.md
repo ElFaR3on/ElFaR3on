@@ -35,9 +35,9 @@ Rather than claiming to be an expert, I am a dedicated student of the field—co
 
 **🎯 Current Focus:** Deepening my understanding of Network Security and actively applying theoretical concepts through hands-on labs.
 
-* **[In Progress]** Preparing for foundational industry certifications.
-* **[Completed]** Cybersecurity Fundamentals - *(Add Platform/Institution)*
-* **[Completed]** Networking Basics - *(Add Platform/Institution)*
+
+* **[Completed]** Cybersecurity Fundamentals - *(Cyberhaze)*
+* **[Completed]** Networking Basics - *(Cyberhaze)*
 
 <div align="center">
   <br>
@@ -47,14 +47,4 @@ Rather than claiming to be an expert, I am a dedicated student of the field—co
 <!--
 **ElFaR3on/ElFaR3on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
