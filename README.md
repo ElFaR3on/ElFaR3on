@@ -36,8 +36,8 @@ Rather than claiming to be an expert, I am a dedicated student of the field—co
 **🎯 Current Focus:** Deepening my understanding of Network Security and actively applying theoretical concepts through hands-on labs.
 
 
-* **[Completed]** Cybersecurity Fundamentals - *Cyberhaze*
-* **[Completed]** Networking Basics - *Cyberhaze*
+*  Cybersecurity Fundamentals - *Cyberhaze*
+*  Networking Basics - *Cyberhaze*
 
 <div align="center">
   <br>
